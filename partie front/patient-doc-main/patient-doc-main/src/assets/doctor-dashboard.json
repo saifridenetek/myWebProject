@@ -1,0 +1,12 @@
+{
+  "name": "Dr. Jane Smith",
+  "appointmentsToday": 5,
+  "pendingValidations": 2,
+  "recentTreatments": [
+    {
+      "patientName": "Alice Doe",
+      "date": "2025-05-05",
+      "diagnosis": "Back pain"
+    }
+  ]
+}

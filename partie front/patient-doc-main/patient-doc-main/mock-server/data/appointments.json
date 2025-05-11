@@ -1,0 +1,107 @@
+[
+    {
+      "id": 101,
+      "doctorId": 1,
+      "patientEmail": "john@example.com",
+      "dateTime": "2025-05-10T15:30",
+      "reason": "Routine Checkup",
+      "status": "PENDING"
+    },
+    {
+      "id": 102,
+      "doctorId": 1,
+      "patientEmail": "alice@example.com",
+      "dateTime": "2025-05-10T16:00",
+      "reason": "Migraine",
+      "status": "VALIDATED"
+    },
+    {
+      "id": 105,
+      "doctorId": 1,
+      "patientEmail": "lucas@example.com",
+      "dateTime": "2025-05-12T09:00",
+      "reason": "Skin rash",
+      "status": "PENDING"
+    },
+    {
+      "id": 106,
+      "doctorId": 1,
+      "patientEmail": "emma@example.com",
+      "dateTime": "2025-05-12T09:45",
+      "reason": "Follow-up",
+      "status": "VALIDATED"
+    },
+    {
+      "id": 107,
+      "doctorId": 1,
+      "patientEmail": "sophie@example.com",
+      "dateTime": "2025-05-12T10:30",
+      "reason": "Diabetes consultation",
+      "status": "PENDING"
+    },
+    {
+      "id": 108,
+      "doctorId": 1,
+      "patientEmail": "mike@example.com",
+      "dateTime": "2025-05-12T11:15",
+      "reason": "High blood pressure",
+      "status": "VALIDATED"
+    },
+    {
+      "id": 109,
+      "doctorId": 1,
+      "patientEmail": "carla@example.com",
+      "dateTime": "2025-05-12T12:00",
+      "reason": "Headache",
+      "status": "PENDING"
+    },
+    {
+      "id": 110,
+      "doctorId": 1,
+      "patientEmail": "tom@example.com",
+      "dateTime": "2025-05-12T14:00",
+      "reason": "Back pain",
+      "status": "VALIDATED"
+    },
+    {
+      "id": 111,
+      "doctorId": 1,
+      "patientEmail": "nina@example.com",
+      "dateTime": "2025-05-12T15:00",
+      "reason": "Fever",
+      "status": "PENDING"
+    },
+    {
+      "id": 112,
+      "doctorId": 1,
+      "patientEmail": "steve@example.com",
+      "dateTime": "2025-05-12T16:00",
+      "reason": "Check-up",
+      "status": "VALIDATED"
+    },
+    {
+      "id": 113,
+      "doctorId": 1,
+      "patientEmail": "lara@example.com",
+      "dateTime": "2025-05-12T17:00",
+      "reason": "Sore throat",
+      "status": "PENDING"
+    },
+    {
+      "id": 114,
+      "doctorId": 2,
+      "patientEmail": "john@example.com",
+      "dateTime": "2025-05-11T11:00",
+      "reason": "Back pain",
+      "status": "PENDING"
+    },
+    {
+      "id": 115,
+      "doctorId": 2,
+      "patientEmail": "alice@example.com",
+      "dateTime": "2025-05-09T10:00",
+      "reason": "Flu symptoms",
+      "status": "VALIDATED"
+    }
+  ]
+  

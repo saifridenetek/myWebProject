@@ -1,0 +1,11 @@
+{
+  "name": "John Doe",
+  "upcomingAppointments": [
+    {
+      "id": 12,
+      "dateTime": "2025-05-10T15:30",
+      "doctorName": "Dr. Smith",
+      "reason": "Routine Checkup"
+    }
+  ]
+}

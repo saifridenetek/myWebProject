@@ -1,0 +1,31 @@
+[
+    {
+      "email": "john@example.com",
+      "password": "securePass",
+      "role": "PATIENT",
+      "name": "John Doe",
+      "token": "mock-patient-123"
+    },
+    {
+      "email": "alice@example.com",
+      "password": "alice123",
+      "role": "PATIENT",
+      "name": "Alice Blue",
+      "token": "mock-patient-456"
+    },
+    {
+      "email": "jane@example.com",
+      "password": "pass1234",
+      "role": "DOCTOR",
+      "name": "Dr. Jane Smith",
+      "token": "mock-doctor-789"
+    },
+    {
+      "email": "alan@example.com",
+      "password": "brown456",
+      "role": "DOCTOR",
+      "name": "Dr. Alan Brown",
+      "token": "mock-doctor-101"
+    }
+  ]
+  

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 201,
+      "appointmentDate": "2025-05-09",
+      "doctorId": 2,
+      "patientEmail": "alice@example.com",
+      "diagnosis": "Flu",
+      "prescription": "Rest, fluids, paracetamol"
+    },
+    {
+      "id": 202,
+      "appointmentDate": "2025-05-10",
+      "doctorId": 1,
+      "patientEmail": "alice@example.com",
+      "diagnosis": "Migraine",
+      "prescription": "Ibuprofen, reduce screen time"
+    },
+    {
+      "id": 203,
+      "appointmentDate": "2025-05-08",
+      "doctorId": 2,
+      "patientEmail": "john@example.com",
+      "diagnosis": "Back pain",
+      "prescription": "Physical therapy, stretching"
+    }
+  ]
+  
